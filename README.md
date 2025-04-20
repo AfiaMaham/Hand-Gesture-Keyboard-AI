@@ -26,7 +26,8 @@ This is a **Virtual Keyboard using Hand Gestures** built with **OpenCV**, **Medi
 
 ## Demo Video
 
-[Watch Demo on LinkedIn]([https://www.linkedin.com/posts/YOUR_POST_ID](https://www.linkedin.com/posts/afiamaham_virtualkeyboard-computervision-python-activity-7319639677383204864-G_yY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXH7xcBZoknbY78H8JLJvJmg3-ahY1cNtw))
+[Watch Demo on LinkedIn](https://www.linkedin.com/posts/afiamaham_virtualkeyboard-computervision-python-activity-7319639677383204864-G_yY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXH7xcBZoknbY78H8JLJvJmg3-ahY1cNtw)
+
 ---
 
 ## Installation
