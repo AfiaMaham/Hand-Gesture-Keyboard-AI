@@ -1,11 +1,11 @@
-# 🖐️ Virtual AI Keyboard with Gesture Typing & Spell Correction
+# Virtual AI Keyboard with Gesture Typing & Spell Correction
 
 This is a **Virtual Keyboard using Hand Gestures** built with **OpenCV**, **MediaPipe**, and **Python**. It allows users to type words using hand movements, recognizes spelling errors in real time, and suggests corrections interactively.
 
 
-<img src="keyboard-pic.png" style="width:50%;">---
+<img src="keyboard-pic.png" style="width:50%;">
 
-## ✨ Features
+## Features
 
 - **Gesture-Based Typing**: Type letters by hovering and "clicking" with specific finger gestures.
 - **On-Screen Virtual Keyboard**: A full interactive keyboard rendered live on camera.
@@ -17,21 +17,20 @@ This is a **Virtual Keyboard using Hand Gestures** built with **OpenCV**, **Medi
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **OpenCV** – For webcam input and drawing on the screen.
 - **MediaPipe Hands** – For detecting hand landmarks and gestures.
 - **Python** – Main programming language.
 - **pyspellchecker** – For typo correction and suggestion logic.
 
-## 📸 Screenshots
+## Demo Video
 
-![Keyboard Layout](https://your-image-link-here.com/layout.png)
+[Watch Demo on LinkedIn]([https://www.linkedin.com/posts/YOUR_POST_ID](https://www.linkedin.com/posts/afiamaham_virtualkeyboard-computervision-python-activity-7319639677383204864-G_yY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXH7xcBZoknbY78H8JLJvJmg3-ahY1cNtw))
 ---
 
-## 🔧 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AfiaMaham/virtual-keyboard.git
-   cd virtual-keyboard
+   https://github.com/AfiaMaham/Hand-Gesture-Keyboard-AI.git
