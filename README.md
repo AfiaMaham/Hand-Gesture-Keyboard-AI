@@ -3,8 +3,7 @@
 This is a **Virtual Keyboard using Hand Gestures** built with **OpenCV**, **MediaPipe**, and **Python**. It allows users to type words using hand movements, recognizes spelling errors in real time, and suggests corrections interactively.
 
 
-![Virtual Keyboard Screenshot](keyboard-pic.png)
----
+<img src="keyboard-pic.png" style="width:50%;">---
 
 ## ✨ Features
 
